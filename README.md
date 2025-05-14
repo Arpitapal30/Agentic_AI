@@ -38,8 +38,6 @@ Weather Forecast Agentic AI is built with an **Agentic RAG (Retrieval-Augmented 
 
 ---
 
-## 🧪 Example Queries
-
 ```text
 🌤️ "Do I need an umbrella in Paris this weekend?"
 🌪️ "Is it safe to travel to Florida tomorrow considering recent weather?"
@@ -61,7 +59,6 @@ VECTORDB_PATH=./data/weather_vector_db
 4. Run the agent
 python run_agent.py
 
-############################################33
  🖼️ Architecture Diagram
 [User Query]
      ↓
@@ -76,7 +73,7 @@ python run_agent.py
 Future Plans
 Integrate satellite imagery analysis
 
-Support multi-modal inputs (e.g., voice, map selection)
+Support multi-modal inputs (voice, map selection)
 
 Add location-aware personalization via GPS
 
