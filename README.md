@@ -61,7 +61,8 @@ VECTORDB_PATH=./data/weather_vector_db
 4. Run the agent
 python run_agent.py
 
-🖼️ Architecture Diagram
+############################################33
+ 🖼️ Architecture Diagram
 [User Query]
      ↓
 [AI Gateway] → [Intent Detection]
